@@ -6,13 +6,14 @@
 
 <p align="center">
   <em>
-    <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="30px"> 
+    <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="40px"> 
     ¡Hola! Soy Moises, <b>Técnico Especialista en Programación (G2025)</b> <br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b> <br>
     </a><b>Me considero autodidacta</b> y actualmente estoy aprendiendo y <br>
-    especializándome en el desarrollo <b>backend</b> utilizando el framework de <b>Laravel</b>. <br>
-    <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="30px">
+    especializándome en el desarrollo <b>backend</b> utilizando el framework de <b>Laravel</b>.
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFsa243MmdhbTVrbm4zNWw2dDQycms1cGhuMnA5cHk1cmYzN2x6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40px"> <br>
+    <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="40px">
     Me gusta mucho la tecnología y la programación, además disfruto de los videojuegos; especialmente <b>Minecraft</b> 
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
   </em> 
