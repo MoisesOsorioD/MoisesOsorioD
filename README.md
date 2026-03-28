@@ -39,20 +39,8 @@
       </h3>
       <br>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/-IA%20(copilot)-05122A?style=flat&logo=githubcopilot&logoColor=white"/>&nbsp;
-        <!--
-        <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php"/>&nbsp;
-        <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20"/>&nbsp;
-        <img src="https://img.shields.io/badge/-Laragon-05122A?style=flat&logo=laragon"/>&nbsp;
-        <img src="https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer"/>&nbsp;
-        <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
-        <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
-        <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>&nbsp;
-        <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>&nbsp;
-        <img src="https://img.shields.io/badge/Terminal-black?style=flat&logo=windows%20terminal&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white"/>&nbsp;
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp;
-        -->
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
     </td>
     <td valign="top" width="40%">
       <img alt="Hua Cheng" width="300" height="400" src="https://pbs.twimg.com/media/GyL9mffWgAAk-_w?format=jpg&name=large"/>
@@ -65,13 +53,21 @@
 <br><br>
 
 <!-- Stats bien abajo -->
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDuarteO&layout=compact&theme=synthwave&hide_border=true&bg_color=16151c" width="400"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesOsorioD&theme=github-compact&hide_border=true"
+    width="850"
+    alt="Activity graph de MoisesOsorioD"
+  />
 </p>
 
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FernandoDuarteO&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="400"/>
+  <img
+    src="https://streak-stats.demolab.com?user=MoisesOsorioD&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&v=1"
+    width="400"
+    alt="GitHub streak de MoisesOsorioD"
+  />
 </p>
 
 <br><br>
