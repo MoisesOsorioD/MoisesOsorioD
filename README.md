@@ -59,13 +59,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMoisesOsorioD" alt="Repos" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesOsorioD&theme=github-compact&hide_border=true"
-    width="850"
-    alt="Activity graph de MoisesOsorioD"
-  />
-</p>
+
 
 
 <p align="center">
