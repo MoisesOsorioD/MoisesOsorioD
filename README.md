@@ -54,6 +54,12 @@
 
 <!-- Stats bien abajo -->
 <p align="center">
+  <img src="https://img.shields.io/github/followers/MoisesOsorioD?style=for-the-badge" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMoisesOsorioD" alt="Repos" />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=MoisesOsorioD&theme=github-compact&hide_border=true"
     width="850"
@@ -69,6 +75,8 @@
     alt="GitHub streak de MoisesOsorioD"
   />
 </p>
+
+
 
 <br><br>
 <hr>
