@@ -11,16 +11,16 @@
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
     </a>
-    <br><br>
+    <br>
     Actualmente estoy enfocado en seguir aprendiendo y 
     especializándome en el desarrollo <b>BACKEND</b> con <b>LARAVEL</b>.
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFsa243MmdhbTVrbm4zNWw2dDQycms1cGhuMnA5cHk1cmYzN2x6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40px">
-    <br><br>
+    <br>
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="40px">
     Me gusta mucho la tecnología y la programación; también disfruto jugar videojuegos, 
     especialmente <b>MINECRAFT</b>.
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
-    <br><br>
+    <br>
     Siempre estoy escuchando música sobre todo cuando estoy programando.
     <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30px">
     <br>
