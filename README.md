@@ -21,7 +21,7 @@
     especialmente <b>MINECRAFT</b>.
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
     <br><br>
-    Siempre estoy escuchando música 🎧
+    Siempre estoy escuchando música sobre todo cuando estoy programando.
     <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30px">
     <br>
     <b>¿Ya mencioné que soy fan de los WBNS? 🤔</b>
