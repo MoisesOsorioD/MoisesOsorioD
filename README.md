@@ -38,7 +38,7 @@
   <tr>
     <td valign="top" width="60%">
       <h3>
-        <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px">&nbsp;Skills
+        <img src="https://media.tenor.com/Oc8cIGl9l6YAAAAj/anjan-modak.gif" width="50px">&nbsp;SKILLS
       </h3>
       <br>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
@@ -56,13 +56,15 @@
 <br><br>
 
 <!-- Stats bien abajo -->
+
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/MoisesOsorioD?style=for-the-badge" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FMoisesOsorioD" alt="Repos" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesOsorioD&layout=compact&theme=tokyonight&hide_border=true"
+    width="400"
+    alt="Lenguajes más usados de MoisesOsorioD"
+  />
 </p>
-
-
 
 <p align="center">
   <img
