@@ -21,7 +21,7 @@
     Me apasiona la tecnología y la programación. También disfruto los videojuegos, especialmente <b>MINECRAFT</b>.
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
     <br>
-    Casi siempre escucho música, sobre todo cuando estoy programando
+    Siempre escucho música, sobre todo cuando estoy programando
     <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30px">
     <br>
     <b>¿Ya mencioné que soy fan de los WBNS? 🤔</b>
