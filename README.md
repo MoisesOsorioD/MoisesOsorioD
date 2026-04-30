@@ -33,7 +33,6 @@
 <hr>
 <br><br>
 
-<!-- Skills y foto en una tabla HTML, usando solo HTML dentro -->
 <table>
   <tr>
     <td valign="top" width="60%">
@@ -52,8 +51,6 @@
 <br><br>
 <hr>
 <br><br>
-
-<!-- Stats bien abajo -->
 
 
 <p align="center">
@@ -78,7 +75,6 @@
 <hr>
 <br>
 
-<!-- Azul -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=🥷🏻+La+mejor+manera+de+predecir+el+futuro+es+crearlo+🥷🏻;2032👁️&center=true&width=600&height=45&typeSpeed=2000&color=7766C6">
 </div>
