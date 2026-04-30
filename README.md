@@ -13,7 +13,7 @@
     </a>
     <img src="https://i.giphy.com/u5Zr5VLVza63h3qJMg.webp" width="40px">
     <br>
-    Soy autodidacta y actualmente me estoy enfocando en el desarrollo 
+    Actualmente me estoy enfocando en el desarrollo 
     <b>BACKEND</b> utilizando <b>LARAVEL</b>.
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFsa243MmdhbTVrbm4zNWw2dDQycms1cGhuMnA5cHk1cmYzN2x6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40px">
     <br>
