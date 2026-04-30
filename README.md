@@ -7,23 +7,26 @@
 <p align="center">
   <em>
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="40px"> 
-    ¡Hola! Soy Moises, <b>Técnico Especialista en Programación (G2025)</b> <br>
+    ¡Hola! Soy <b>MOISES</b>, Técnico Especialista en Programación (G2025), egresado del <br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
-      <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b> <br>
-    </a><b>Me considero autodidacta</b> y actualmente estoy aprendiendo y <br>
-    especializándome en el desarrollo <b>backend</b> utilizando el framework de <b>Laravel</b>.
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFsa243MmdhbTVrbm4zNWw2dDQycms1cGhuMnA5cHk1cmYzN2x6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40px"> <br>
+      <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
+    </a>
+    <br><br>
+    Actualmente estoy enfocado en seguir aprendiendo y 
+    especializándome en el desarrollo <b>BACKEND</b> con <b>LARAVEL</b>.
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFsa243MmdhbTVrbm4zNWw2dDQycms1cGhuMnA5cHk1cmYzN2x6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40px">
+    <br><br>
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="40px">
-    Me gusta mucho la tecnología y la programación, además disfruto de los videojuegos; especialmente <b>Minecraft</b> 
+    Me gusta mucho la tecnología y la programación; también disfruto jugar videojuegos, 
+    especialmente <b>MINECRAFT</b>.
     <img src="https://media.tenor.com/1kHOscRDeUoAAAAi/heart.gif" width="30px">
-  </em> 
-  <br>
-  Me encanta escuchar música todo el tiempo
-  <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30" />
-  <b>¿Ya mencioné que soy FAN de los WBNS 🤔?</b>
-  <img src="https://i.pinimg.com/originals/dc/cd/26/dccd26f18318f61ab2619c2738d3e83d.gif" width="50" />  
-  
-  
+    <br><br>
+    Siempre estoy escuchando música 🎧
+    <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30px">
+    <br>
+    <b>¿Ya mencioné que soy fan de los WBNS? 🤔</b>
+    <img src="https://i.pinimg.com/originals/dc/cd/26/dccd26f18318f61ab2619c2738d3e83d.gif" width="50px">
+  </em>
 </p>
 
 <br><br>
