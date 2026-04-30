@@ -24,7 +24,7 @@
     Siempre escucho música, sobre todo cuando estoy programando
     <img src="https://media.tenor.com/YyVcCBs8paMAAAAi/record-player-pixel-art.gif" width="30px">
     <br>
-    <b>¿Ya mencioné que soy fan de los WBNS? 🤔</b>
+    <b>¿Ya mencioné que soy fan de los WBNS?</b>
     <img src="https://i.pinimg.com/originals/dc/cd/26/dccd26f18318f61ab2619c2738d3e83d.gif" width="50px">
   </em>
 </p>
@@ -42,8 +42,6 @@
       </h3>
       <br>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
     </td>
     <td valign="top" width="40%">
       <img alt="Hua Cheng" width="300" height="400" src="https://pbs.twimg.com/media/GyL9mffWgAAk-_w?format=jpg&name=large"/>
