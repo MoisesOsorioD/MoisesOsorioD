@@ -55,9 +55,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesOsorioD&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MoisesOsorioD&layout=compact&theme=tokyonight&hide_border=true"
     width="400"
-    alt="Lenguajes más usados de MoisesOsorioD"
   />
 </p>
 
