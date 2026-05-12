@@ -7,14 +7,15 @@
 <p align="center">
   <em>
     <img src="https://media.tenor.com/4fQgj7pCztgAAAAi/kawaii-cute.gif" width="40px"> 
-    ¡Hola! Soy <b>MOISES</b>, Técnico Especialista en Programación (G2025), egresado del <br>
+    ¡Hola! Soy <b>MOISES</b>, egresado del
+    <b>Técnico Especialista en Programación (G2025)</b> del <br>
     <a href="https://www.tecnacional.edu.ni/centro/centro-tecnologico-francisco-rivera-quintero/">
       <b>Centro Tecnológico Francisco Rivera Quintero “El Zorro” (INATEC – Estelí)</b>
     </a>
     <img src="https://i.giphy.com/u5Zr5VLVza63h3qJMg.webp" width="40px">
-    <br>
-    Actualmente me estoy enfocando en el desarrollo 
-    <b>BACKEND</b> utilizando <b>LARAVEL</b>.
+    <br><br>
+    💻 Actualmente me enfoco en el desarrollo 
+    <b>BACKEND</b> utilizando <b>LARAVEL</b>, <br> fortaleciendo mis conocimientos en programación, bases de datos y desarrollo web.
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFsa243MmdhbTVrbm4zNWw2dDQycms1cGhuMnA5cHk1cmYzN2x6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40px">
     <br>
     <img src="https://media.tenor.com/uUNcnHwYJQEAAAAi/running-pikachu-transparent-snivee.gif" width="40px">
